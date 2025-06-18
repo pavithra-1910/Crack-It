@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088672955020",
+    "project_id": "crackit-8371d",
+    "storage_bucket": "crackit-8371d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088672955020:android:50932391d5ed2e6af119a9",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088672955020-v48g4353ufppsejm877iotuklghvg0oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "AndroidManifest.xml",
+            "certificate_hash": "dbd9afa47438277972bf95c0613882d5d36305a7"
+          }
+        },
+        {
+          "client_id": "1088672955020-rr1fstnrjhvfti5ghs76p8a17ds8rrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUttozml7y3L5hNHajWeT8DHfoDTTw64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088672955020-rr1fstnrjhvfti5ghs76p8a17ds8rrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
