@@ -1,4 +1,4 @@
-# Placify
+# Crackit
 
 ## Placement & Interview Preparation Application
 
