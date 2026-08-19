@@ -2,7 +2,7 @@
 
 ## Placement & Interview Preparation Application
 
-Placify is a student-focused application designed to help users prepare for placements, internships, aptitude tests, technical interviews, and HR interviews in one place.
+Crackit is a student-focused application designed to help users prepare for placements, internships, aptitude tests, technical interviews, and HR interviews in one place.
 
 ## Features
 
@@ -95,25 +95,25 @@ python main.py
 Screenshots of the application can be added here to demonstrate the user interface and major features.
 
 ### Login Page
-![Placify Login Page](loginpage-screen.png)
+![Crakit Login Page](loginpage-screen.png)
 
 ### Home Page
-![Placify Home Page](homepage-screenshot.png)
+![Crakit Home Page](homepage-screenshot.png)
 
 ### Practice Section
-![Placify Practice Section](practicalsection-screen.png)
+![Crakit Practice Section](practicalsection-screen.png)
 
 ### Test Results
-![Placify Test Results](testresultpage-screen.png)
+![Crakit Test Results](testresultpage-screen.png)
 
 ### Notifications
-![Placify Notifications](notificationpage-screen.png)
+![Crakit Notifications](notificationpage-screen.png)
 
 ### To-Do List
-![Placify To-Do List](todolist-screen.png)
+![Crakit To-Do List](todolist-screen.png)
 
 ### Profile
-![Placify Profile](profilepage-screen.png)
+![Crakit Profile](profilepage-screen.png)
 
 
 ## Future Improvements
