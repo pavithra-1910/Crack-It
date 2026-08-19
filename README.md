@@ -92,8 +92,29 @@ python main.py
 ```
 
 ## Screenshots
-
 Screenshots of the application can be added here to demonstrate the user interface and major features.
+
+### Login Page
+![Placify Login Page](loginpage-screen.png)
+
+### Home Page
+![Placify Home Page](homepage-screenshot.png)
+
+### Practice Section
+![Placify Practice Section](practicalsection-screen.png)
+
+### Test Results
+![Placify Test Results](testresultpage-screen.png)
+
+### Notifications
+![Placify Notifications](notificationpage-screen.png)
+
+### To-Do List
+![Placify To-Do List](todolist-screen.png)
+
+### Profile
+![Placify Profile](profilepage-screen.png)
+
 
 ## Future Improvements
 
